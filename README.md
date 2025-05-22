@@ -3,4 +3,4 @@
                       DevOps, Cloud Engineering, Data Science, Python, Machine Learning
                       
       
-- 🎓 From Unity University by Computer Science
+- 🎓 Graduated by Computer Science
