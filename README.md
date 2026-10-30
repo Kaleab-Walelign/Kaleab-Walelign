@@ -103,29 +103,7 @@ I have hands-on experience deploying and maintaining production systems, buildin
 
 ---
 
-## 📈 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaleabwalelign&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kaleab's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabwalelign&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaleabwalelign&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/kaleabwalelign">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 I'm interested in collaborating on open-source projects, cloud-native engineering, DevOps automation, AI applications, and data engineering initiatives.
 
